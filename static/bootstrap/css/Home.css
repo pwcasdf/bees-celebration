@@ -1,0 +1,373 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../../images/GettyImages-168673746.jpg");
+  background-position: 50% 50%;
+  min-height: 1013px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1013px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 600px;
+  min-height: 728px;
+  background-image: none;
+  height: auto;
+  margin: 186px auto 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 5px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: AppleSDGothicNeoB;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 0 25px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 39px 56px 0 26px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 38px 56px 0 25px;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 1013px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 600px;
+  min-height: 728px;
+  background-image: none;
+  height: auto;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  margin: 186px 56px 0 auto;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 5px 0;
+}
+
+.u-section-1 .u-text-8 {
+  font-size: 3.75rem;
+  font-family: AppleSDGothicNeoB;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 0 25px;
+}
+
+.u-section-1 .u-text-9 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 39px 56px 0 26px;
+}
+
+.u-section-1 .u-text-10 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-11 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-12 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-13 {
+  font-size: 1.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 38px 56px 0 25px;
+}
+
+.u-section-1 .u-text-14 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: AppleSDGothicNeoL;
+  font-weight: bold;
+  margin: 16px 56px 0 26px;
+}
+
+.u-section-1 .u-text-15 {
+  font-size: 4.5rem;
+  font-family: AppleSDGothicNeoH;
+  font-weight: normal;
+  margin: -983px auto 0;
+}
+
+.u-section-1 .u-text-16 {
+  font-family: AppleSDGothicNeoB;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-text-17 {
+  font-family: AppleSDGothicNeoB;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 470px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 74px;
+    margin-right: 47px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 17px;
+    margin-right: 47px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 17px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: 52px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    background-position: 50% 50%;
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 470px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-11 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-12 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-13 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-14 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-15 {
+    font-weight: 400;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 360px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 378px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 360px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 385px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 567px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 357px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-8 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-15 {
+    font-size: 1.875rem;
+  }
+}@font-face {
+  font-family: 'AppleSDGothicNeoB';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/AppleSDGothicNeoB.ttf);
+}@font-face {
+  font-family: 'AppleSDGothicNeoL';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/AppleSDGothicNeoL.ttf);
+}@font-face {
+  font-family: 'AppleSDGothicNeoH';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/AppleSDGothicNeoH.ttf);
+}

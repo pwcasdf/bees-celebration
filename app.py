@@ -7,11 +7,6 @@ import requests
 
 app = Flask(__name__)
 
-url='https://dev.bees-kconnect.com/eai/extras/common_keai_0001'
-
-getTokenHeader = { "Accept" : "*/*", "Content-Type" : "application/json", "Authorization" : "Basic ZWFpX2tib246ZWFpX2tib25Ab2IuY28ua3I=", "country" : "KR", "timezone" : "Asia/Seoul" }
-getTokenBody = { "POC_ID":"2148665741", "WS_ID":"2148665741" }
-
 @app.route('/')
 def cover():
     return render_template('Cover.html')
@@ -22,13 +17,13 @@ def index():
 
 @app.route('/get_order_hansung')
 def getOrderHansung():
-    url='https://dev.bees-kconnect.com/'
+    url='https://api.bees-kconnect.com/'
 
     postTokenPath = 'eai/extras/common_keai_0001'
     getOrderPath = 'eai/orders/ORDER_KBON_0003'
 
     postTokenHeader = { "Accept" : "*/*", "Content-Type" : "application/json", "Authorization" : "Basic ZWFpX2tib246ZWFpX2tib25Ab2IuY28ua3I=", "country" : "KR", "timezone" : "Asia/Seoul" }
-    postTokenBody = { "POC_ID":"2148665741", "WS_ID":"2148665741" }
+    postTokenBody = { "POC_ID":"5148108927", "WS_ID":"5148108927" }
 
     tokenJson = json.loads(requests.post(url+postTokenPath, headers=postTokenHeader, json=postTokenBody).text)
 
@@ -56,19 +51,19 @@ def getOrderHansung():
 
 @app.route('/get_order_hwachang')
 def getOrderHwachang():
-    url='https://dev.bees-kconnect.com/'
+    url='https://api.bees-kconnect.com/'
 
     postTokenPath = 'eai/extras/common_keai_0001'
     getOrderPath = 'eai/orders/ORDER_KBON_0003'
 
     postTokenHeader = { "Accept" : "*/*", "Content-Type" : "application/json", "Authorization" : "Basic ZWFpX2tib246ZWFpX2tib25Ab2IuY28ua3I=", "country" : "KR", "timezone" : "Asia/Seoul" }
-    postTokenBody = { "POC_ID":"2148665741", "WS_ID":"2148665741" }
+    postTokenBody = { "POC_ID":"5038129145", "WS_ID":"5038129145" }
 
     tokenJson = json.loads(requests.post(url+postTokenPath, headers=postTokenHeader, json=postTokenBody).text)
 
     bearerToken = 'Bearer ' + tokenJson['token']
 
-    getOrderHeader = { "Accept" : "*/*", "Content-Type" : "application/json", "country" : "KR", "timezone" : "Asia/Seoul", "payload-param" : "?orderStatus=PLACED&page=1&pageSize=2&country=KR&vendorId=\"5148108927\"", "Authorization" : bearerToken }
+    getOrderHeader = { "Accept" : "*/*", "Content-Type" : "application/json", "country" : "KR", "timezone" : "Asia/Seoul", "payload-param" : "?orderStatus=PLACED&page=1&pageSize=2&country=KR&vendorId=\"5038129145\"", "Authorization" : bearerToken }
 
     orderJson = json.loads(requests.get(url+getOrderPath, headers=getOrderHeader).content.decode('utf-8'))
 
